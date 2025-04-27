@@ -11,6 +11,11 @@ target/
 *.iws
 *.iml
 *.ipr
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
 
 ### Eclipse ###
 .apt_generated
@@ -36,3 +41,10 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Windows Installer files ###
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
